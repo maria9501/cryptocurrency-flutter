@@ -1,0 +1,11 @@
+{
+  "name": "cryptocurrency-flutter-web",
+  "version": "1.0.0",
+  "description": "Cryptocurrency Flutter Web App",
+  "scripts": {
+    "start": "npx http-server web -p 8000 -c-1"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
